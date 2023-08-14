@@ -9,7 +9,7 @@ class Car {
 }
 
 List<Car> cars = [
-  Car('Lamborghini Urus', 'assets/ci.png', 'assets/3.png', 'assets/b1.png',
+  Car('Lamborghini Urus', 'assets/c1.png', 'assets/3.png', 'assets/b1.png',
       520),
   Car('BMW M7 Series', 'assets/c2.png', 'assets/1.png', 'assets/b2.png', 430),
   Car('Porshe', 'assets/c3.png', 'assets/4.png', 'assets/b3', 500)
